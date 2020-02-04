@@ -63,8 +63,8 @@ public class HelloWorld {
 
    		perimeter = (lenght * 2) + (width *2);
    		area = lenght * width;
-   		System.out.println ("The perimeter of the rectangle is equal to " + perimeter);
-   		System.out.println ("The area of the rectangle is equal to " + area);
+   		System.out.println ("The perimeter of the rectangle is equal to " + perimeter + " centimeters");
+   		System.out.println ("The area of the rectangle is equal to " + area + " centimeters squared");
 
 
 
