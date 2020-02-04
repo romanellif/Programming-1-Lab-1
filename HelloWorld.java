@@ -52,7 +52,19 @@ public class HelloWorld {
    		System.out.println ("When converted to American money, you will have " + usd);
    		System.out.println ("When converted to European money, you will have " + eur);
 
+   		//Calculate the Area and Perimeter 
 
+   		int lenght;
+   		int width;
+   		lenght = 10;
+   		width = 18;
+   		double perimeter;
+   		double area; 
+
+   		perimeter = (lenght * 2) + (width *2);
+   		area = lenght * width;
+   		System.out.println ("The perimeter of the rectangle is equal to " + perimeter);
+   		System.out.println ("The area of the rectangle is equal to " + area);
 
 
 
